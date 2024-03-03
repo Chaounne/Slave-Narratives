@@ -1,0 +1,9 @@
+writable/
+.DS_STORE
+.idea/
+.code/
+*.bat
+.env
+memory.json
+*.iml
+vendor/
